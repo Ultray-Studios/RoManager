@@ -1,6 +1,8 @@
 # RoManager
 Open-source web-based management panel & API designed for Roblox Game Studios
 
+⚠️ Please note: this project is not yet ready to be used, as it is in the most early development stage it can ever be in
+
 This project provides:
 - Handling Player Data
 - Use of ScyllaDB for optimized performance and incredible scalability
